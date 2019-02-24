@@ -1,4 +1,4 @@
-#python program for stp watch using tkinter module
+#python program for stop watch using tkinter module
 from tkinter import *
 root=Tk()
 root.title("StopWatch")

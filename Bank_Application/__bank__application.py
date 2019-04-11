@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 10 19:26:25 2019
-
-@author: HP
-"""
 '''IT is Banking Application for:
 1. Create Account in Bank for Customer
 2. Withdraw , Deposit ,Mobile Number Update And Aadhar Update Facility Provide by Bank.
